@@ -5,9 +5,9 @@
   "dependencies": {
     "breach_module": "0.3.x",
     "async": "0.9.x",
-    "express": "4.0.x",
+    "express": "4.16.0",
     "body-parser": "1.0.x",
-    "method-override": "1.0.x",
+    "method-override": "2.3.10",
     "request": "2.36.x"
   }
 }
